@@ -9,7 +9,7 @@ All these macros must be activated to garantee all tests pass.
 #define ENABLE_CALLBACK_TEST3
 #define ENABLE_CALLBACK_TEST4
 #define ENABLE_CALLBACK_TEST5
-#define ENABLE_CALLBACK_TEST6/*
+#define ENABLE_CALLBACK_TEST6
 #define ENABLE_CALLBACK_TEST7
 #define ENABLE_CALLBACK_TEST8
 
@@ -20,5 +20,5 @@ All these macros must be activated to garantee all tests pass.
 #define ENABLE_EVENTHANDLER_TEST13
 #define ENABLE_EVENTHANDLER_TEST14
 #define ENABLE_EVENTHANDLER_TEST15
-*/
+
 
