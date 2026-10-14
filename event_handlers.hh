@@ -7,7 +7,7 @@ public:
 virtual void call(Event* event) = 0;
 };
 
-
+//Generic event handler
 template<typename TObject, typename TEvent>
 class EventHandler : public IEventHandler
 {
